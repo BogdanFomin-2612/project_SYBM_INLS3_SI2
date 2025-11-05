@@ -10,7 +10,9 @@
 **Project SYMB INLS SI** Projekt galerii samochodów sportowych zawiera **opisy, specyfikacje i ciekawostki** na temat ekskluzywnych samochodów.
 
 ## Technologies
-- [HTML5](#html5)
+- [HTML5](#html5) 
+            <i class="devicon-html5-plain-wordmark"></i>
+          
 - [CSS](#css)
 - [Git](#git)
 - [GitHub](#github)
@@ -20,4 +22,5 @@
 - Yaroslav Chemekow 87602
 - Serhii Konovalenko 88094
 - Maksym Bondar 87468
+
 
